@@ -1,0 +1,6 @@
+framework module Pods_xibProject {
+  umbrella header "Pods-xibProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
